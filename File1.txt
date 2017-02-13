@@ -1,7 +1,7 @@
 Welcom to git..!!
 
-change 1
+Change - 1
 
-change 2
+Change - 2
 
-change 
+Change - 3 
